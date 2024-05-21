@@ -1,6 +1,10 @@
+package CSESproblems;
+
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        long N = 13;
+        Scanner sc = new Scanner(System.in);
+        long N= sc.nextInt();
         while (N != 1) {
             System.out.print(N + " ");
             if (N % 2 != 0)
