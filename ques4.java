@@ -1,4 +1,4 @@
-//package CSESproblems;
+package CSESproblems;
 import java.util.Scanner;
 
 public class ques4 {
